@@ -1,1 +1,15 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yourcompany.game",
+      "sha256_cert_fingerprints": [
+        "9F:61:F2:FE:76:33:29:E3:B6:19:98:CA:1C:9E:72:8B:26:CA:FE:28:75:FF:4B:0C:8E:2E:E8:E9:3C:52:95:EB"
+      ]
+    }
+  }
+]
